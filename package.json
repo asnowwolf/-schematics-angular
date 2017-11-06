@@ -1,5 +1,5 @@
 {
-  "name": "@schematics/angular",
+  "name": "@ng-nice/schematics-angular",
   "version": "0.1.0",
   "description": "Schematics specific to Angular",
   "keywords": [
@@ -26,6 +26,7 @@
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
   },
+  "private": false,
   "author": "Angular Authors",
   "license": "MIT",
   "bugs": {
